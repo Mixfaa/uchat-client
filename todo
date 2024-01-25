@@ -1,0 +1,5 @@
+messages loading as scroll
+messages reply
+messages pin 
+remake deleting from arrays, size_t can become -1 if deleting first element
+file messages

@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/mixfa/json_c_test/build",
+  "command": "/usr/bin/clang -DCIMGUI_DEFINE_ENUMS_AND_STRUCTS -DCIMGUI_USE_GLFW -DCIMGUI_USE_OPENGL3 -I/home/mixfa/json_c_test/inc -O3 -DNDEBUG -o CMakeFiles/json_c_test.dir/src/chat-socket/array_list_utils.c.o -c /home/mixfa/json_c_test/src/chat-socket/array_list_utils.c",
+  "file": "/home/mixfa/json_c_test/src/chat-socket/array_list_utils.c"
+},
+{
+  "directory": "/home/mixfa/json_c_test/build",
+  "command": "/usr/bin/clang -DCIMGUI_DEFINE_ENUMS_AND_STRUCTS -DCIMGUI_USE_GLFW -DCIMGUI_USE_OPENGL3 -I/home/mixfa/json_c_test/inc -O3 -DNDEBUG -o CMakeFiles/json_c_test.dir/src/chat-socket/chat_socket.c.o -c /home/mixfa/json_c_test/src/chat-socket/chat_socket.c",
+  "file": "/home/mixfa/json_c_test/src/chat-socket/chat_socket.c"
+},
+{
+  "directory": "/home/mixfa/json_c_test/build",
+  "command": "/usr/bin/clang -DCIMGUI_DEFINE_ENUMS_AND_STRUCTS -DCIMGUI_USE_GLFW -DCIMGUI_USE_OPENGL3 -I/home/mixfa/json_c_test/inc -O3 -DNDEBUG -o CMakeFiles/json_c_test.dir/src/chat-socket/requests.c.o -c /home/mixfa/json_c_test/src/chat-socket/requests.c",
+  "file": "/home/mixfa/json_c_test/src/chat-socket/requests.c"
+},
+{
+  "directory": "/home/mixfa/json_c_test/build",
+  "command": "/usr/bin/clang -DCIMGUI_DEFINE_ENUMS_AND_STRUCTS -DCIMGUI_USE_GLFW -DCIMGUI_USE_OPENGL3 -I/home/mixfa/json_c_test/inc -O3 -DNDEBUG -o CMakeFiles/json_c_test.dir/src/chat-socket/responses.c.o -c /home/mixfa/json_c_test/src/chat-socket/responses.c",
+  "file": "/home/mixfa/json_c_test/src/chat-socket/responses.c"
+},
+{
+  "directory": "/home/mixfa/json_c_test/build",
+  "command": "/usr/bin/clang -DCIMGUI_DEFINE_ENUMS_AND_STRUCTS -DCIMGUI_USE_GLFW -DCIMGUI_USE_OPENGL3 -I/home/mixfa/json_c_test/inc -O3 -DNDEBUG -o CMakeFiles/json_c_test.dir/src/gui_utils.c.o -c /home/mixfa/json_c_test/src/gui_utils.c",
+  "file": "/home/mixfa/json_c_test/src/gui_utils.c"
+},
+{
+  "directory": "/home/mixfa/json_c_test/build",
+  "command": "/usr/bin/clang -DCIMGUI_DEFINE_ENUMS_AND_STRUCTS -DCIMGUI_USE_GLFW -DCIMGUI_USE_OPENGL3 -I/home/mixfa/json_c_test/inc -O3 -DNDEBUG -o CMakeFiles/json_c_test.dir/src/main.c.o -c /home/mixfa/json_c_test/src/main.c",
+  "file": "/home/mixfa/json_c_test/src/main.c"
+},
+{
+  "directory": "/home/mixfa/json_c_test/build",
+  "command": "/usr/bin/clang -DCIMGUI_DEFINE_ENUMS_AND_STRUCTS -DCIMGUI_USE_GLFW -DCIMGUI_USE_OPENGL3 -I/home/mixfa/json_c_test/inc -O3 -DNDEBUG -o CMakeFiles/json_c_test.dir/src/uchat.c.o -c /home/mixfa/json_c_test/src/uchat.c",
+  "file": "/home/mixfa/json_c_test/src/uchat.c"
+}
+]

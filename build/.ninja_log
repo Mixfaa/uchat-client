@@ -1,0 +1,9 @@
+# ninja log v5
+7	1345	1701901247919255798	CMakeFiles/json_c_test.dir/src/chat-socket/requests.c.o	29e0329ea9f1558f
+7	1581	1701901248129255806	CMakeFiles/json_c_test.dir/src/uchat.c.o	4557d5ff2bc62e1b
+6	1389	1701901247969255800	CMakeFiles/json_c_test.dir/src/chat-socket/chat_socket.c.o	b62433b61722db60
+1	453	1701803362831253412	CMakeFiles/json_c_test.dir/src/chat-socket/array_list_utils.c.o	fedd3d7ef4400374
+7	1582	1701901248149255807	CMakeFiles/json_c_test.dir/src/main.c.o	ebad0200e01cdebe
+7	1405	1701901247969255800	CMakeFiles/json_c_test.dir/src/chat-socket/responses.c.o	848f06606eaeabbe
+2	1499	1701787992187498078	CMakeFiles/json_c_test.dir/src/gui_utils.c.o	7ae5edd0ad3f5416
+1582	2097	1701901248679255828	json_c_test	917c26853ac5823
